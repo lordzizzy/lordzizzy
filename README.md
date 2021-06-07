@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lordzizzy
-- 👀 I’m interested in games programming and programming languages.
-- 🌱 I’m currently learning python, rust and cpp20.
+- 👀 I’m interested in programming languages, cybersecurity and game development.
+- 🌱 I’m currently learning python, cpp20 and rust.
 
 <!---
 lordzizzy/lordzizzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
